@@ -1,6 +1,5 @@
 <h1 align="center">Balkishan Bajpay</h1>
 <h3 align="center">Transforming Web Visions into Interactive Reality .</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/rolling_chair_reel_monchomasse.gif"/>
 
 
 
