@@ -1,7 +1,4 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kishanxplorer/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balkishan-bajpay-400283325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bkbajpay0905@gmail.com) 
-
 📊 GitHub Stats:
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=kishan-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
