@@ -11,14 +11,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishan-25&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&cache_seconds=86400" alt="kishan-25's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=kishan-25&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="kishan-25's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishan-25&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Balkishan Bajpay's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-25&theme=gruvbox&radius=10" alt="kishan-25's Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=kishan-25&theme=cobalt&hide_border=true&cache_seconds=86400" alt="Balkishan's GitHub Streak" width="49%" />
 </p>
 
 
